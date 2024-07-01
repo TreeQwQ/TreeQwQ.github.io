@@ -872,6 +872,7 @@ document.addEventListener('DOMContentLoaded', function () {
     switchComments()
     openMobileMenu()
   }
+  
 
   refreshFn()
   unRefreshFn()
